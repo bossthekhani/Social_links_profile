@@ -1,0 +1,100 @@
+/* styles.css */
+body {
+    background-color: #0d0d0d;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.profile-card {
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+h2 {
+    margin: 10px 0;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.location {
+    color: #b0ff00;
+    margin: 5px 0;
+    font-weight: 600;
+}
+
+.description {
+    font-style: italic;
+    margin: 10px 0 20px;
+    font-weight: 400;
+}
+
+.btn {
+    display: block;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    font-weight: 600;
+}
+
+.btn.github {
+    background-color: #b0ff00;
+    color: #000;
+}
+
+.btn:hover, .btn:focus, .btn.github:hover, .btn.github:focus {
+    background-color: #b0ff00;
+    color: #000;
+}
+
+/* Media Query for Mobile */
+@media (max-width: 375px) {
+    body {
+        padding: 10px;
+    }
+
+    .profile-card {
+        padding: 15px;
+        max-width: 100%;
+    }
+
+    .btn {
+        padding: 8px;
+        font-size: 0.9em;
+    }
+}
+
+/* Media Query for Desktop */
+@media (min-width: 1440px) {
+    .profile-card {
+        max-width: 400px;
+    }
+
+    .btn {
+        padding: 12px;
+        font-size: 1.1em;
+    }
+}

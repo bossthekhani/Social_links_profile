@@ -61,8 +61,8 @@ const proudOfThisFunc = () => {
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/bossthekhani)
-- Twitter - [@yourusername](https://www.twitter.com/imumair22)
+- Frontend Mentor - [@bossthekhani ](https://www.frontendmentor.io/profile/bossthekhani)
+- Twitter - [@imumair22](https://www.twitter.com/imumair22)
 
 ## Acknowledgments
 

@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://668a7b2161200ec8e9114fab--comforting-dusk-8df03a.netlify.app/)
+- Solution URL: [Solution](https://github.com/bossthekhani/Social_links_profile)
+- Live Site URL: [Live Preview](https://668a7b2161200ec8e9114fab--comforting-dusk-8df03a.netlify.app/)
 
 ## My process
 
@@ -58,12 +58,12 @@ const proudOfThisFunc = () => {
 }
 ```
 
-## Author
+### Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@bossthekhani ](https://www.frontendmentor.io/profile/bossthekhani)
+- Website - [Preview](https://668a7b2161200ec8e9114fab--comforting-dusk-8df03a.netlify.app/)
+- Frontend Mentor - [@bossthekhani](https://www.frontendmentor.io/profile/bossthekhani)
 - Twitter - [@imumair22](https://www.twitter.com/imumair22)
 
-## Acknowledgments
+### Acknowledgments
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
